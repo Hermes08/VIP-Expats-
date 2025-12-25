@@ -1,0 +1,7 @@
+{
+  "name": "Expatrockstars Github Template Version",
+  "description": "Professional real estate portal specializing in new developments, luxury condos, and investment properties for expats in Panama.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
